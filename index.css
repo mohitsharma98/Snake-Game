@@ -1,0 +1,13 @@
+#myCanvas{
+
+  height: 400px;
+  width: 800px;
+  background-color: black;
+  border: 3px solid orange;
+  margin: 10px;
+
+}
+
+div{
+  margin-top: 30px;
+}

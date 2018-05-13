@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 68F1-C098
+
+ Directory of C:\Users\Bitz\Desktop\Connect Four\snake game
+
+13-05-2018  12:17    <DIR>          .
+13-05-2018  12:17    <DIR>          ..
+28-04-2018  20:54               160 index.css
+29-04-2018  10:50             2,975 index.js
+28-04-2018  20:55               850 snake game.html
+13-05-2018  12:17                 0 text.txt
+               4 File(s)          3,985 bytes
+               2 Dir(s)   7,393,382,400 bytes free
